@@ -1,5 +1,5 @@
 # Tanel Kreek
-![Taneli pilt](https://www.luge.ee/tanel.jpg)
+![Taneli pilt](https://www.luge.ee/tanel.jpg | width=150)
 ## Miks tulin õppima:
 - et saada targemaks
 - õppida probleeme lahendama
