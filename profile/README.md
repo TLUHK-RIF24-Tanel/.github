@@ -4,5 +4,5 @@
 
 ## Miks tulin õppima:
 - et omandada uusi oskusi ja teadmisi
-- õppida IT-valdkonna probleeme loogiliselt ja süsteemselt lahendama
-- ületada hirm, et ma ei suuda IT-probleeme ise lahendada 
+- omandada tarkvaraarenduse põhitõed ja leida kitsam suund edasiseks enesetäienduseks
+- ületada seesmine hirm, et minu IT-võimekuse tipp on VBA makrod. 
